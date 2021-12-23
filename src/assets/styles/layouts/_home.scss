@@ -1,0 +1,11 @@
+.el-center {
+    @apply justify-center items-center
+}
+
+.btn-selected {
+    @apply rounded bg-white text-pink
+}
+
+.title-ul {
+    @apply text-xl text-blue-dark font-medium
+}
